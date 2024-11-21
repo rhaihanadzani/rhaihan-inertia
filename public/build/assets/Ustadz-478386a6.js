@@ -1,0 +1,1 @@
+import{j as o,a as t,b as s}from"./app-a341da4a.js";const r=()=>o("div",{children:[t("h1",{children:"Ustadz Dashboard"}),t(s,{href:route("logout"),method:"post",as:"button",children:"Logout"})]});export{r as default};

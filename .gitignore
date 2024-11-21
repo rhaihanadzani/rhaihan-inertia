@@ -1,0 +1,36 @@
+# Laravel & PHP-related files
+/storage/*.key
+.env
+.env.*
+/.phpunit.cache
+Homestead.json
+Homestead.yaml
+auth.json
+
+# Node.js & NPM-related files
+/node_modules
+npm-debug.log*
+yarn-error.log*
+
+# Public folder (build artifacts)
+!/public/build
+/public/hot
+
+# IDE and editor files
+/.idea
+/.vscode
+/.fleet
+
+# Verce-related files (for Vercel deployments)
+/.vercel
+.vercel
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+/tests/
+.git/

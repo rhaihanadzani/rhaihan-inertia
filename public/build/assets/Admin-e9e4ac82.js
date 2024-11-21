@@ -1,0 +1,1 @@
+import{j as t,a as o,b as r}from"./app-a341da4a.js";const a=()=>t("div",{children:[o("h1",{children:"Admin Dashboard"}),o(r,{href:route("logout"),method:"post",as:"button",children:"Logout"})]});export{a as default};
