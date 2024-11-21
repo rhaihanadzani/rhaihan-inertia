@@ -1,7 +1,6 @@
 # Laravel & PHP-related files
 /storage/*.key
-.env
-.env.*
+
 /.phpunit.cache
 Homestead.json
 Homestead.yaml
